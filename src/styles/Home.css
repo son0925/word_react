@@ -1,0 +1,17 @@
+.home {
+  background-color: #FFFFFF;
+  padding: 30px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.home h1 {
+  color: #007BFF; /* 파란색 제목 */
+  font-size: 32px;
+  margin-bottom: 20px;
+}
+
+.home p {
+  font-size: 18px;
+  color: #6C757D; /* 보조 색상 */
+}

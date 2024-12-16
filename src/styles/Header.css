@@ -1,0 +1,50 @@
+/* 헤더 스타일 */
+.header {
+  background-color: black; /* 파란색 */
+  color: white;
+  padding: 20px;
+}
+
+.header .auth-links {
+  float: right;
+}
+
+.header .auth-links a {
+  color: white;
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+.header .auth-links a:hover {
+  text-decoration: underline;
+}
+
+.header .main-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header .main-nav a {
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 0 15px;
+}
+
+.header .main-nav a:hover {
+  text-decoration: underline;
+}
+
+.header .logo {
+  font-size: 24px;
+  color: white;
+  text-decoration: none;
+}
+
+.header .logo:hover {
+  color: #28A745; /* 강조 색상 */
+}
+
+
+
